@@ -121,7 +121,7 @@ export default function Home() {
               
               <div className="relative w-full h-full rounded-[3rem] overflow-hidden border-4 border-neutral-900 shadow-2xl rotate-3 hover:rotate-0 transition-transform duration-500 group">
                 <img 
-                  src="/public/me.jpeg" 
+                  src="/me.jpeg" 
                   alt="Ishimwe Gisele" 
                   className="w-full h-full object-cover grayscale brightness-90 group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700"
                 />

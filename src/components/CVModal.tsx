@@ -56,7 +56,7 @@ export default function CVModal({ isOpen, onClose }: CVModalProps) {
             <div className="flex-grow overflow-y-auto p-4 md:p-8 bg-neutral-950/30">
               <div className="max-w-2xl mx-auto shadow-2xl rounded-sm overflow-hidden">
                 <img 
-                  src="/public/my-cv.jpeg" 
+                  src="/my-cv.jpeg" 
                   alt="ISHIMWE GISELE Resume" 
                   className="w-full h-auto"
                 />
